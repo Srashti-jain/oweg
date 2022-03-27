@@ -1,0 +1,10 @@
+[20-Mar-2022 00:06:51 UTC] PHP Notice:  Undefined variable: factory in /home/cloudtecnico/oweg.in/database/factories/OrderWalletLogsFactory.php on line 8
+[20-Mar-2022 00:06:51 UTC] PHP Fatal error:  Uncaught Error: Call to a member function define() on null in /home/cloudtecnico/oweg.in/database/factories/OrderWalletLogsFactory.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/cloudtecnico/oweg.in/database/factories/OrderWalletLogsFactory.php on line 8
+[20-Mar-2022 01:04:47 UTC] PHP Notice:  Undefined variable: factory in /home/cloudtecnico/oweg.in/database/factories/UserFactory.php on line 16
+[20-Mar-2022 01:04:47 UTC] PHP Fatal error:  Uncaught Error: Call to a member function define() on null in /home/cloudtecnico/oweg.in/database/factories/UserFactory.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/cloudtecnico/oweg.in/database/factories/UserFactory.php on line 16
